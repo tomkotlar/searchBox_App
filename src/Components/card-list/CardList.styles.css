@@ -1,0 +1,25 @@
+.card-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  align-content: center;
+}
+
+p {
+  margin: 6px;
+}
+
+@media screen and (max-width: 768px) {
+  .card-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+}
