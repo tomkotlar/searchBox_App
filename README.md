@@ -7,8 +7,8 @@ The aplication is deployed with GitHub Pages  [searchBox_App](https://tomkotlar.
 ## Instructions
 
 On GitHub create your own **public** repository for your project. **Make sure NOT to initialise it with a README or .gitignore.**
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
-For latest versions of [Create React App](npm install react-scripts@latest)
+This project was bootstrapped with [Create React App](https://create-react-app.dev/) <br />
+For latest versions of Create React App npm install react-scripts@latest
 
 
 
